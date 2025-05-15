@@ -1,0 +1,20 @@
+{
+    "$schema": "http://json-schema.org/schema#",
+    "$id": "http://www.ibm.com/dba/projects/PDQDP/DD_17558ab7-7b4b-437c-93ec-07a049102b69_FormName.json",
+    "uuid": "17558ab7-7b4b-437c-93ec-07a049102b69",
+    "namespace": "PDQDP",
+    "version": "1",
+    "description": null,
+    "definitions": {
+        "FormName": {
+            "$id": "#FormName",
+            "title": "FormName",
+            "type": [
+                "string",
+                "null"
+            ],
+            "maxLength": 1024,
+            "default": null
+        }
+    }
+}

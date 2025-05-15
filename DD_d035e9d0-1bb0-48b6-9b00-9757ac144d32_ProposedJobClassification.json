@@ -1,0 +1,20 @@
+{
+    "$schema": "http://json-schema.org/schema#",
+    "$id": "http://www.ibm.com/dba/projects/PDQDP/DD_d035e9d0-1bb0-48b6-9b00-9757ac144d32_ProposedJobClassification.json",
+    "uuid": "d035e9d0-1bb0-48b6-9b00-9757ac144d32",
+    "namespace": "PDQDP",
+    "version": "1",
+    "description": null,
+    "definitions": {
+        "ProposedJobClassification": {
+            "$id": "#ProposedJobClassification",
+            "title": "Proposed Job Classification",
+            "type": [
+                "string",
+                "null"
+            ],
+            "maxLength": 1024,
+            "default": null
+        }
+    }
+}

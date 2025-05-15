@@ -1,0 +1,20 @@
+{
+    "$schema": "http://json-schema.org/schema#",
+    "$id": "http://www.ibm.com/dba/projects/PDQDP/DD_d10423b5-7c01-4563-a60c-b873bf7dd265_PositionPurpose.json",
+    "uuid": "d10423b5-7c01-4563-a60c-b873bf7dd265",
+    "namespace": "PDQDP",
+    "version": "1",
+    "description": null,
+    "definitions": {
+        "PositionPurpose": {
+            "$id": "#PositionPurpose",
+            "title": "Position Purpose",
+            "type": [
+                "string",
+                "null"
+            ],
+            "maxLength": 1024,
+            "default": null
+        }
+    }
+}

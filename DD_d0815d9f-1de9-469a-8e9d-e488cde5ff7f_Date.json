@@ -1,0 +1,20 @@
+{
+    "$schema": "http://json-schema.org/schema#",
+    "$id": "http://www.ibm.com/dba/projects/PDQDP/DD_d0815d9f-1de9-469a-8e9d-e488cde5ff7f_Date.json",
+    "uuid": "d0815d9f-1de9-469a-8e9d-e488cde5ff7f",
+    "namespace": "PDQDP",
+    "version": "1",
+    "description": null,
+    "definitions": {
+        "Date": {
+            "$id": "#Date",
+            "title": "Date",
+            "type": [
+                "string",
+                "null"
+            ],
+            "maxLength": 1024,
+            "default": null
+        }
+    }
+}

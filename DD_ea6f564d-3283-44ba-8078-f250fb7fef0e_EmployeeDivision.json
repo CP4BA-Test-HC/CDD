@@ -1,0 +1,20 @@
+{
+    "$schema": "http://json-schema.org/schema#",
+    "$id": "http://www.ibm.com/dba/projects/PDQDP/DD_ea6f564d-3283-44ba-8078-f250fb7fef0e_EmployeeDivision.json",
+    "uuid": "ea6f564d-3283-44ba-8078-f250fb7fef0e",
+    "namespace": "PDQDP",
+    "version": "1",
+    "description": null,
+    "definitions": {
+        "EmployeeDivision": {
+            "$id": "#EmployeeDivision",
+            "title": "Employee Division",
+            "type": [
+                "string",
+                "null"
+            ],
+            "maxLength": 1024,
+            "default": null
+        }
+    }
+}

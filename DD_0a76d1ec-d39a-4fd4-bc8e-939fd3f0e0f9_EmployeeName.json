@@ -1,0 +1,20 @@
+{
+    "$schema": "http://json-schema.org/schema#",
+    "$id": "http://www.ibm.com/dba/projects/PDQDP/DD_0a76d1ec-d39a-4fd4-bc8e-939fd3f0e0f9_EmployeeName.json",
+    "uuid": "0a76d1ec-d39a-4fd4-bc8e-939fd3f0e0f9",
+    "namespace": "PDQDP",
+    "version": "1",
+    "description": null,
+    "definitions": {
+        "EmployeeName": {
+            "$id": "#EmployeeName",
+            "title": "Employee Name",
+            "type": [
+                "string",
+                "null"
+            ],
+            "maxLength": 256,
+            "default": null
+        }
+    }
+}

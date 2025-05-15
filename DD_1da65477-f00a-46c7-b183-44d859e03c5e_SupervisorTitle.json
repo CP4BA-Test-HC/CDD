@@ -1,0 +1,20 @@
+{
+    "$schema": "http://json-schema.org/schema#",
+    "$id": "http://www.ibm.com/dba/projects/PDQDP/DD_1da65477-f00a-46c7-b183-44d859e03c5e_SupervisorTitle.json",
+    "uuid": "1da65477-f00a-46c7-b183-44d859e03c5e",
+    "namespace": "PDQDP",
+    "version": "1",
+    "description": null,
+    "definitions": {
+        "SupervisorTitle": {
+            "$id": "#SupervisorTitle",
+            "title": "Supervisor Title",
+            "type": [
+                "string",
+                "null"
+            ],
+            "maxLength": 1024,
+            "default": null
+        }
+    }
+}
